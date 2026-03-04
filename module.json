@@ -1,0 +1,14 @@
+{
+  "format_version": "0.1",
+  "title": "My First Module",
+  "creators": [
+    {
+      "name": "Ed"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "content_hash": "sha256:6c7c24edcaa24fef670f41fb516faeae84b9d2e7593753739d9bf0cb8b9af5f0",
+  "canonical_id": "omf:sha256:6c7c24edcaa24fef670f41fb516faeae84b9d2e7593753739d9bf0cb8b9af5f0",
+  "derived_from": [],
+  "external_resources": []
+}
